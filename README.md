@@ -56,9 +56,7 @@ It answers real-world business questions by analyzing quarterly and monthly tren
 
 - SQL (JOINs, Aggregations, CTEs, Temp Tables, CASE statements)
 - MySQL Workbench
-- Git & GitHub for version control
 
 ---
 
-## 📂 Project Structure
 
